@@ -1,6 +1,6 @@
 # 🏥 AI Chatbot for Healthcare – Heart Disease Risk Predictor
 
-> **Mini Project | B.Tech CSE – Semester V | AIML**
+> **Mini Project | B.Tech I.T. – Semester VI | 6AIML-8ABC**
 
 A command-line AI chatbot that predicts heart disease risk using a **Random Forest classifier** trained on the UCI Heart Disease dataset. The chatbot collects 13 clinical parameters through a guided conversation and returns a risk assessment with explainability.
 
