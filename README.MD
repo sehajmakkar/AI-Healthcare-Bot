@@ -120,5 +120,5 @@ This tool is for **educational purposes only**. It does not constitute medical a
 
 ## 👥 Authors
 
-- Rahul Sharma (21CS101)
-- Priya Mehta (21CS102)
+- Sehaj Preet (70314803123)
+- FaiZ ParveZ (70114803123)
